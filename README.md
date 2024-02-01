@@ -10,7 +10,7 @@ Video: Adaptive, Maximum 1280x720 1500Kbps
 Audio: HE-AAC 40Kbps  
 
 # EPG?
-Use [https://weareblahs.github.io/epg/astro.xml](https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
+Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 
 # Free TV
 
@@ -39,7 +39,7 @@ Use [https://weareblahs.github.io/epg/astro.xml](https://raw.githubusercontent.c
 - Travel&Taste
 - YRF Music
 
-- Premium TV
+# Premium TV
 
 - Astro Arena 2
 - Astro Arena Bola
