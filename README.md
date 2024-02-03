@@ -5,6 +5,9 @@ Live TV Links from sooka (sooka.my), Astro's new streaming service. Playable thr
 This repository contains free channels only (playable when logged out of the website itself).  
 Links could be expired anytime. Download the m3u8 file then change the license server URL.
 
+# Web
+Live TV Links from sooka (www.sooka.my)
+
 # Technical Information
 Video: Adaptive, Maximum 1280x720 1500Kbps  
 Audio: HE-AAC 40Kbps  
