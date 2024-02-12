@@ -1,1 +1,149 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV1">
+    <display-name lang="en">TV1</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="en">TV2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="OKEY">
+    <display-name lang="en">TV Okey</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="AstroAEC">
+    <display-name lang="en">Astro AEC</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroQJ">
+    <display-name lang="en">Astro QJ</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="KBSWorld">
+    <display-name lang="en">KBS World</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ONE">
+    <display-name lang="en">ONE</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="tvN">
+    <display-name lang="en">tvN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="K-Plus">
+    <display-name lang="en">K-Plus</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="HITSMovies">
+    <display-name lang="en">HITS Movies</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="tvNMovies">
+    <display-name lang="en">tvN Movies HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="AstroAwani">
+    <display-name lang="en">Astro Awani</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="HITSNow">
+    <display-name lang="en">HITS Now</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/524_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITS">
+    <display-name lang="en">HITS</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="AstroArena">
+    <display-name lang="en">Astro Arena HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArena2">
+    <display-name lang="en">Astro Arena 2 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArenaBola">
+    <display-name lang="en">Astro Arena Bola</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroArenaBola2">
+    <display-name lang="en">Astro Arena Bola 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SPOTV2">
+    <display-name lang="en">SPOTV2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroSupersport">
+    <display-name lang="en">Astro SuperSport HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroSupersport2">
+    <display-name lang="en">Astro SuperSport 2 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroSupersport3">
+    <display-name lang="en">Astro SuperSport 3 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroSupersport4">
+    <display-name lang="en">Astro SuperSport 4 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="W-Sport">
+    <display-name lang="en">W-Sport</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SPOTV">
+    <display-name lang="en">SPOTV HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="beINSports2">
+    <display-name lang="en">beIN Sports 2 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="beINSports">
+    <display-name lang="en">beIN Sports HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="beINSports3">
+    <display-name lang="en">beIN Sports 3 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    </programme>
+</tv>
