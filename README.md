@@ -18,6 +18,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 # Free TV
 
 - Astro AEC
+- Astro Arena
 - Astro Awani
 - TV Okey
 - TV1
