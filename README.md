@@ -20,6 +20,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - Astro AEC
 - Astro Arena
 - Astro Awani
+- Astro Oasis
 - TV Okey
 - TV1
 - TV2
